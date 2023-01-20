@@ -1,0 +1,60 @@
+body {
+     
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    font-size: 24px;
+}
+ form{ 
+    display: block ;
+    margin: 10px 30%;
+    padding: 10px;
+    border-color: black;
+    border-style: solid; 
+    background: linear-gradient(to right, rgb(219, 83, 49), rgba(255, 122, 89,0));
+   
+}
+img{
+    width: 10%;
+    margin-left: 45%;
+    opacity: 0.8;
+}
+
+h1,
+p{
+    text-align: center; 
+    font-family:arial,Helvetica, sans-serif;
+    /* text-shadow: #FFF38C 1px 0 10px; */
+}
+
+
+.space{
+    margin: 30px 0px;
+    border:20px;
+    
+} 
+.case{
+    border-color: black;
+    border-style: solid;
+    width: 99%;
+    min-height: 35px;
+    margin-bottom: 20px;
+    
+}
+
+textarea{
+    overflow: auto;
+    width: 99%;
+    height: 50px;}
+
+button{
+    
+    margin-bottom: 10px;
+    background-color: #fc5025;
+    height: 30px;
+}
+    
+
+
+
